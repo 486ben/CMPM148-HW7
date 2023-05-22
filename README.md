@@ -1,6 +1,6 @@
 # CMPM148-HW7
 
-<h3>Citation for image</h3>
+<h3>First Citation for image</h3>
 <li>Title: Blimp Icon Collections on The Noun Project</li>
 <li>Author: Fenton, James</li>
 <li>Website: The Noun Project</li>
