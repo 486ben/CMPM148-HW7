@@ -9,3 +9,4 @@
 
 https://thenounproject.com/browse/creator/elki/icons/?p=1
 https://thenounproject.com/nuhicondesigner/
+https://thenounproject.com/leremy/
